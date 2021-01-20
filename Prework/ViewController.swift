@@ -4,7 +4,6 @@
 //
 //  Created by Cyrus Adriel Arellano on 1/19/21.
 //
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -35,7 +34,3 @@ class ViewController: UIViewController {
     
     
 }
-
-
-
-
